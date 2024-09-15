@@ -1,3 +1,5 @@
+import { cart } from "../data/cart";
+
 let productComponent = "";
 products.forEach((product) => {
   productComponent += `
